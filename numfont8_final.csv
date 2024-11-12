@@ -1,0 +1,7 @@
+langcode,lang,fn
+ar,Arabic,num_arabic.csv
+el,Greek,num_greek.csv
+ja,Japanese,num_japanese.csv
+zh,Chinese,num_chinese.csv
+ko,Korean,num_korean.csv
+bn,Bengali,num_bengali.csv
