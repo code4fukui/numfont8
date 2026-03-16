@@ -10,15 +10,15 @@
 - [num_greek.csv](num_greek.csv)
 - [num_korean.csv](num_korean.csv)
 
-## make IchigoJam PCG
+## makeIchigoJamPCG
 
 ```sh
-deno run -A numfont2bas.js num_bengali.csv 
+deno run -A numfont2bas.js num_bengali.csv
 ```
 
-## reference
+## 参考
 
 - [ISO639-1コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2%E3%82%B3%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## ライセンス
+このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
